@@ -23,7 +23,7 @@
       ],
 
       "aliases": {
-        "Translatable": "TanMuhittin\\LaraTranslate\\Facades\\Translatable"
+        "Translatable": "TanMuhittin\\LaraTranslate\\Traits\\Translatable"
       }
     }
   }
